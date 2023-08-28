@@ -48,5 +48,5 @@ Barrier methods include:
 ### Connection to Other Topics
 
 - **[[Convex Optimization]]**: Barrier methods are a specific technique within convex optimization.
-- **[[Linear Programming]]**: Karmarkar's algorithm is a well-known barrier method for linear programming.
+- **[[Linear Optimization]]**: Karmarkar's algorithm is a well-known barrier method for linear programming.
 - [[Optimization]]

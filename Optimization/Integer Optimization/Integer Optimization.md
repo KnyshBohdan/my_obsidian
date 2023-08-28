@@ -11,7 +11,7 @@ An Integer Programming problem aims to find the optimal solution for a mathemati
     
 - **Standard Form**:
     
-    $$begin{align} maxmize_{x} \ \ \ c^T x \\ subject \ to \ Ax \le b, \\ x \ge 0, \\ x \in Z^n  \end{align}$$
+    $$\begin{align} maxmize_{x} \ \ \ c^T x \\ subject \ to \ Ax \le b, \\ x \ge 0, \\ x \in Z^n  \end{align}$$
   
     
 
@@ -37,3 +37,5 @@ An Integer Programming problem aims to find the optimal solution for a mathemati
 ### Complexity
 
 Integer Programming is known to be NP-complete, making it computationally challenging for large-scale problems.
+
+[[Optimization]]
