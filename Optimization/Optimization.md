@@ -33,7 +33,7 @@ Optimization refers to the process of finding the best solution to a problem by 
 
 - **[[Calculus]]**: Optimization relies heavily on differential calculus to find critical points.
 - **[[Linear Algebra]]**: Many optimization techniques utilize concepts from linear algebra.
-- **[[Machine Learning]]**: Optimization is central to training machine learning models.
+- **[[Mathematical statistics/Machine Learning]]**: Optimization is central to training machine learning models.
 - **[[Economics]]**: Optimization is used in economic theory to model rational decision-making.
 - **[[Convex Analysis]]**: A specialized field related to convex optimization problems.
 - [[Mathematics]]

@@ -42,5 +42,5 @@ Consider estimating the confidence interval for the mean of a dataset. Using boo
 ### Obsidian Links
 
 - [[Statistical Inference]]
-- [[Time Series Analysis]]
+- [[Mathematical statistics/Time Series Analysis/Time Series Analysis]]
 - [[Regression Analysis]]

@@ -53,4 +53,4 @@ There is a large software ecosystem for convex optimization, including modeling 
 
 - **[[Optimization]]**: Convex optimization is a specialized area within mathematical optimization.
 - **[[Linear Optimization]]**: A specific case of convex optimization.
-- **[[Machine Learning]]**: Used in hyperparameter tuning and model selection.
+- **[[Mathematical statistics/Machine Learning]]**: Used in hyperparameter tuning and model selection.
