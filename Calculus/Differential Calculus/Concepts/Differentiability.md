@@ -29,3 +29,6 @@ $$f'(a) = \lim_{h \to 0} \frac{f(a + h) - f(a)}{h}$$
 - **[[Complex Analysis]]**: Differentiability extends to complex functions, but with more stringent conditions.
 - **[[Optimal Control Theory]]**: Differentiability is crucial for optimizing dynamic systems.
 - **[[Calculus]]**: Differentiability is a foundational concept in calculus.
+
+[[Calculus]]
+**[[Differential Calculus]]**

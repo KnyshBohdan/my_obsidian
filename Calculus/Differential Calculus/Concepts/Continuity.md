@@ -30,3 +30,6 @@ $$\lim_{x \to a} f(x) = f(a)$$
 - **[[Integral Calculus]]**: Integration is essentially the reverse operation of differentiation for continuous functions.
 - **[[Topology]]**: Generalizes the concept of continuity to more abstract spaces.
 - **[[Real Analysis]]**: Provides a rigorous foundation for continuity.
+- 
+[[Calculus]]
+**[[Differential Calculus]]**

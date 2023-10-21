@@ -27,3 +27,6 @@ This results in an equation involving dydx​, which can then be solved to find 
 - **[[Differentiability]]**: It extends the concept of differentiability to equations not easily expressed as functions.
 - **[[Chain Rule  (differentiation)]]**: The method often involves the use of the Chain Rule.
 - **[[Partial Derivatives]]**: Implicit differentiation is a special case of partial differentiation.
+
+[[Calculus]]
+**[[Differential Calculus]]**

@@ -27,3 +27,5 @@ Here, Î³ is a contour in the complex plane, and z(t) is any parametrization of Î
 - **[[Residue Theorem]]**: Useful for evaluating integrals and sums in complex analysis.
 - **[[Calculus of Residues]]**: Closely related to the method of contour integration.
 - **[[Real Integration]]**: Complex integration can solve certain real integrals that are otherwise difficult to evaluate.
+[[Calculus]]
+**[[Complex Analysis]]**

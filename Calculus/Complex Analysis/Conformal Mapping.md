@@ -23,3 +23,6 @@ In mathematics, a conformal map is a function that locally preserves angles but 
 - **[[Harmonic Functions]]**: Conformal maps preserve harmonic functions, making them useful in physics for fields defined by a potential.
 - **[[Complex Functions]]**: Conformal maps are a subset of complex functions that have special properties.
 - **[[Complex Integration]]**: Conformal maps are often used to simplify complex integrals.
+
+[[Calculus]]
+**[[Complex Analysis]]**

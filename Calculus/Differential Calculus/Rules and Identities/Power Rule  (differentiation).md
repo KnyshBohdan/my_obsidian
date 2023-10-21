@@ -22,3 +22,5 @@ f′(x)=r×xr−1f′(x)=r×xr−1
 - **[[Taylor Series]]**: The Power Rule is foundational for understanding Taylor series.
 - **[[Limits]]**: The proof of the Power Rule involves limits.
 - **[[Integral Calculus]]**: The Power Rule for integration is essentially the inverse operation of the Power Rule for differentiation.
+[[Calculus]]
+**[[Differential Calculus]]**

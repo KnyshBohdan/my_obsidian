@@ -32,3 +32,6 @@ provided this limit exists. For a function f(x), its derivative f′(x) gives a 
 - **[[Integral Calculus]]**: Derivatives and integrals are inverse operations.
 - **[[Optimal Control Theory]]**: Derivatives are used to optimize dynamic systems.
 - **[[Differential Equations]]**: Derivatives are fundamental in formulating and solving differential equations.
+
+[[Calculus]]
+**[[Differential Calculus]]**

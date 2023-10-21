@@ -21,3 +21,6 @@ Optimal Control Theory deals with the problem of finding a control law for a giv
 - **[[Hamilton's Principle]]**: The Hamilton–Jacobi–Bellman equation in optimal control is related to Hamilton's principle.
 - **[[Dynamical Systems]]**: The theory is fundamentally concerned with the behavior of dynamical systems.
 - **[[Numerical Methods]]**: Numerical methods are often used to solve optimal control problems that don't have analytical solutions.
+
+[[Calculus]]
+[[Calculus of Variations]]

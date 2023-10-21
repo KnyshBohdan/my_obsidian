@@ -3,7 +3,7 @@
 
 The KKT conditions are applied to the following nonlinear optimization problem in standard form:
 
-- **Minimize**: f(x)f(x)
+- **Minimize**: f(x)
 - **Subject to**:
     - Inequality constraints: $gi(x)≤0, i=1,…,m$
     - Equality constraints: $hj(x)=0, j=1,…,ℓ$

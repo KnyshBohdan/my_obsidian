@@ -28,3 +28,5 @@ The Euler-Lagrange equation provides the necessary condition for a function f(x)
 - **[[Calculus of Variations]]**: The Euler-Lagrange equation is a fundamental equation in the calculus of variations.
 - **[[Hamiltonian Mechanics]]**: The Euler-Lagrange equation can be transformed into Hamilton's equations.
 - **[[Partial Differential Equations]]**: In cases involving multiple variables, the Euler-Lagrange equation becomes a partial differential equation.
+[[Calculus]]
+[[Calculus of Variations]]

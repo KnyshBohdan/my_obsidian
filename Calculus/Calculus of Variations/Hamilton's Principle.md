@@ -29,3 +29,6 @@ Hamilton's Principle can be thought of as a generalization of the principle of l
 - **[[Quantum Mechanics]]**: The principle is extended to quantum systems via the path integral formulation.
 - **[[Analytical Mechanics]]**: Hamilton's Principle is a key concept in analytical mechanics, providing a unifying principle for various mechanical theories.
 - **[[Calculus of Variations]]**: The principle is a specific application of the calculus of variations, focusing on the optimization of action functionals.
+
+[[Calculus]]
+[[Calculus of Variations]]

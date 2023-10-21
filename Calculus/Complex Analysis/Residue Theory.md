@@ -22,3 +22,6 @@ $$\oint_{\gamma} f(z) dz  = 2 \pi i  \sum_{k =1} ^{n} I (\gamma, a_k) Res(f, a_k
 - **[[Line Integrals]]**: The theorem provides a method for evaluating line integrals.
 - **[[Infinite Series]]**: It can be used to evaluate infinite series.
 - **[[Cauchy's Integral Theorem]]**: The Residue Theorem generalizes Cauchy's Integral Theorem.
+
+[[Calculus]]
+**[[Complex Analysis]]**

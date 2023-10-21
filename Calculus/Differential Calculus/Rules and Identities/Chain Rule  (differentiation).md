@@ -30,3 +30,6 @@ Here, f′(g(x)) is the derivative of ff with respect to g(x), and g′(x) is th
 - **[[Partial Derivatives]]**: The Chain Rule extends to functions of multiple variables.
 - **[[Optimization]]**: The Chain Rule is often used in optimization problems to find local maxima or minima.
 - **[[Integrals]]**: The Chain Rule has an analog in integration known as the substitution method.
+
+[[Calculus]]
+**[[Differential Calculus]]**

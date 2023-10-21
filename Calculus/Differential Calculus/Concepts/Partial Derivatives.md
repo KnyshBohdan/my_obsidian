@@ -35,3 +35,6 @@ The partial derivative can be variously denoted by fx​, fx′f​, ∂xf, Dxf 
 - **[[Limits]]**: The definition of a partial derivative involves limits.
     
 - **[[Continuity]]**: A function with continuous partial derivatives is totally differentiable.
+
+[[Calculus]]
+**[[Differential Calculus]]**

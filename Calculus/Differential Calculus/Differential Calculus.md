@@ -32,3 +32,5 @@ provided this limit exists. For a function f(x) defined over some domain, its de
 - **[[Continuous Functions]]**: Differentiability often requires the function to be continuous.
 - **[[Optimization]]**: Critical points, found through derivatives, are used in optimization problems.
 - **[[Taylor Series]]**: Derivatives are used to expand functions into their Taylor series.
+
+[[Calculus]]

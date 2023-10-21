@@ -24,3 +24,6 @@ Consider the problem of finding the shortest curve connecting two points. In a p
 - **[[Functional Analysis]]**: Deals with function spaces, which are also the domain of functionals in the calculus of variations.
     
 - **[[Geometry]]**: Geodesics and other optimal paths or shapes can be understood using this calculus.
+
+[[Calculus]]
+[[Calculus of Variations]]

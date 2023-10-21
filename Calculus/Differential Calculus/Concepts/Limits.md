@@ -28,3 +28,6 @@ In mathematics, a limit is the value that a function or sequence approaches as t
 - **[[Integrals]]**: The integral is a kind of "opposite" of the derivative, and it is also defined using limits.
 - **[[Sequences and Series]]**: Limits are used to determine the convergence of sequences and series.
 - **[[Topology]]**: The concept of a limit is generalized in topology.
+
+[[Calculus]]
+**[[Differential Calculus]]**

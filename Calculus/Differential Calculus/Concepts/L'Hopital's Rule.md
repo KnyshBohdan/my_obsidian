@@ -19,3 +19,6 @@ $$\lim_{x \to c}\frac{f(x)}{g(x)}=\lim_{x \to c}\frac{f'(x)}{g'(x)}$$
 1. [**Calculus**]: L'Hôpital's Rule is a fundamental theorem in calculus, often used to evaluate limits that appear in differentiation and integration.
 2. **[Mathematical Analysis**]: The rule is a key tool in real analysis, particularly in the study of functions and their behavior near singular points.
 3. [**Differentiability**]: The rule requires the functions f(x) and g(x) to be differentiable, linking it to the broader concept of differentiability in calculus.
+
+[[Calculus]]
+**[[Differential Calculus]]**
