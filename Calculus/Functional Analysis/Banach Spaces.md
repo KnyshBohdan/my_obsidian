@@ -2,7 +2,7 @@ Banach spaces are a cornerstone of functional analysis and have profound implica
 
 ### Definition
 
-A Banach space is a complete normed vector space. Formally, a vector space VV over a field FF (usually RR or CC) equipped with a norm ∥⋅∥∥⋅∥ is called a Banach space if every Cauchy sequence in VV converges to an element in VV.
+A Banach space is a complete normed vector space. Formally, a vector space V over a field F (usually R or C) equipped with a norm ∥⋅∥ is called a Banach space if every Cauchy sequence in V converges to an element in V.
 
 ### Properties
 
