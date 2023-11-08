@@ -28,7 +28,7 @@ The partial derivative can be variously denoted by fx​, fx′f​, ∂xf, Dxf 
 
 ## Connection to Other Topics
 
-- **[[Vector Calculus]]**: Partial derivatives are fundamental in vector calculus.
+- **[[Calculus/Multivariable Calculus/Vector Calculus/Vector Calculus]]**: Partial derivatives are fundamental in vector calculus.
     
 - **[[Differential Geometry]]**: They are also used in differential geometry to understand curves and surfaces.
     

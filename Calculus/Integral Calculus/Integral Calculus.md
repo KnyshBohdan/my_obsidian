@@ -32,7 +32,7 @@ Integration can be thought of as the reverse process of differentiation. While d
 
 - [[Differential Calculus]]: The other main branch of calculus, focused on rates of change.
 - [[Multivariable Calculus]]: Extends single-variable calculus to functions of several variables.
-- [[Vector Calculus]]: Deals with vector fields and is used in electromagnetism and fluid dynamics.
+- [[Calculus/Multivariable Calculus/Vector Calculus/Vector Calculus]]: Deals with vector fields and is used in electromagnetism and fluid dynamics.
 - [[Lebesgue Integration]]: A generalization of the Riemann integral, allowing for a broader class of integrable functions.
 - [[Fourier Analysis]]: Uses integrals to transform functions into their constituent frequencies.
 - [[Calculus]]

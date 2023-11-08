@@ -28,7 +28,7 @@ In partial differentiation, all variables except the one of interest are held co
 #### Connection to Other Topics:
 
 - [[Calculus]]: The broader field encompassing differentiation and integration.
-- [[Vector Calculus]]: Where partial derivatives play a key role in defining gradients, divergences, and curls.
+- [[Calculus/Multivariable Calculus/Vector Calculus/Vector Calculus]]: Where partial derivatives play a key role in defining gradients, divergences, and curls.
 - [[Differential Equations]]: Partial derivatives are essential in formulating partial differential equations.
 -  [[Calculus]]
 - [[Multivariable Calculus

@@ -16,7 +16,7 @@ Multiple integration expands the concept of the integral to functions of any num
 
 ### Connection to Other Topics
 
-- **[[Vector Calculus]]**: Special case of calculus in three-dimensional space.
+- **[[Calculus/Multivariable Calculus/Vector Calculus/Vector Calculus]]**: Special case of calculus in three-dimensional space.
 - **[[Differential Equations]]**: Contains partial derivatives are called partial differential equations or PDEs.
 - **[[Optimal Control Theory]]**: Used in the optimal control of continuous-time dynamic systems.
 - **[[Stochastic Calculus]]**: For non-deterministic or stochastic systems.

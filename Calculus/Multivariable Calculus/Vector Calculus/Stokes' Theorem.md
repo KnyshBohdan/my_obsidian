@@ -28,6 +28,6 @@ Stokes' Theorem essentially says that the circulation of a vector field around a
 
 - [[Vector Fields]]: Stokes' Theorem is defined on vector fields.
 - [[Line and Surface Integration]]: It extends the concept of line integrals to surfaces.
-- [[Vector Calculus]]: The broader mathematical framework that includes Stokes' Theorem.
+- [[Calculus/Multivariable Calculus/Vector Calculus/Vector Calculus]]: The broader mathematical framework that includes Stokes' Theorem.
 - [[Calculus]]
 - [[Multivariable Calculus]]

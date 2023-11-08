@@ -29,7 +29,7 @@ Vector fields can be visualized as a collection of arrows, each with a specific 
 
 #### Connection to Other Topics:
 
-- [[Vector Calculus]]: The broader field that encompasses vector fields.
+- [[Calculus/Multivariable Calculus/Vector Calculus/Vector Calculus]]: The broader field that encompasses vector fields.
 - [[Differential Equations]]: Vector fields often appear in the form of differential equations.
 - [[Multivariable Calculus]]: Vector fields are an extension of functions in multivariable calculus.
 -  [[Calculus]]

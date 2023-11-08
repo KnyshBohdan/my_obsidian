@@ -32,7 +32,7 @@ Just as the definite integral of a positive function of one variable represents 
 #### Connection to Other Topics:
 
 - [[Multivariable Calculus]]: The broader field that encompasses multiple integration.
-- [[Vector Calculus]]: Utilizes multiple integrals in defining field quantities like flux.
+- [[Calculus/Multivariable Calculus/Vector Calculus/Vector Calculus]]: Utilizes multiple integrals in defining field quantities like flux.
 - [[Partial Differentiation]]: Multiple integrals often appear in problems involving partial derivatives
 -  [[Calculus]]
 - [[Multivariable Calculus

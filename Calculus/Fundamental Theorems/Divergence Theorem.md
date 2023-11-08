@@ -20,7 +20,7 @@ In simpler terms, the theorem states that the total divergence (or "source stren
 
 #### Connection to Other Topics
 
-- **[[Vector Calculus]]**: The Divergence Theorem is a cornerstone in vector calculus.
+- **[[Calculus/Multivariable Calculus/Vector Calculus/Vector Calculus]]**: The Divergence Theorem is a cornerstone in vector calculus.
 - **[[Flux]]**: The theorem relates the flux across a closed surface to the divergence inside the volume.
 - **[[Green's Theorem]]**: In two dimensions, the Divergence Theorem reduces to Green's theorem.
 - **[[Conservation Laws]]**: Often employed in conservation laws in physics.

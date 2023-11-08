@@ -30,7 +30,7 @@ $$\int_C F dr  = \int_{a}^{b} F(r(t)) r'(t) dt$$
 #### Connection to Other Topics:
 
 - [[Vector Fields]]: Line and surface integrals are defined on vector fields.
-- [[Vector Calculus]]: The broader mathematical framework that includes line and surface integrals.
+- [[Calculus/Multivariable Calculus/Vector Calculus/Vector Calculus]]: The broader mathematical framework that includes line and surface integrals.
 - [[Multivariable Calculus]]: These integrals extend the concept of integration in multivariable calculus.
 - [[Calculus]]
 - [[Multivariable Calculus]]

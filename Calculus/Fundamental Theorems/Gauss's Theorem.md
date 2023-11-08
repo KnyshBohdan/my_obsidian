@@ -20,7 +20,7 @@ Imagine a fluid with a velocity field FF. The theorem essentially states that th
 
 #### Connection to Other Topics
 
-- **[[Vector Calculus]]**: Gauss's Theorem is a cornerstone in vector calculus.
+- **[[Calculus/Multivariable Calculus/Vector Calculus/Vector Calculus]]**: Gauss's Theorem is a cornerstone in vector calculus.
 - **[[Green's Theorem]]**: In two dimensions, Gauss's Theorem reduces to Green's Theorem.
 - **[[Integration by Parts]]**: In one dimension, it is equivalent to integration by parts.
 - **[[Surface Integral]]**: The theorem involves calculating the surface integral of a vector field.
