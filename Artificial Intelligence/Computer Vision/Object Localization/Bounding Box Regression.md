@@ -34,5 +34,5 @@ Bounding Box Regression is used in:
 Bounding Box Regression is closely related to other machine learning concepts such as:
 
 - [[Cross-Entropy Loss]]: explanation on how it is used in conjunction with bounding box regression for object classification.
-- [[Convolution Neural Networks]]: explanation on how CNNs are often the backbone for extracting features in object detection models.
+- [[Convolutional Neural Networks]]: explanation on how CNNs are often the backbone for extracting features in object detection models.
 - [[Mean Squared Error (MSE)]]: explanation on how MSE is used as a loss function in bounding box regression.

@@ -34,4 +34,6 @@ The Hyena Hierarchy has shown promising results in various applications:
 
 - **[[Transformers]]**: The Hyena Hierarchy is directly related to the traditional Transformers and their reliance on attention mechanisms. 
 - [[Subquadratic Operators]] : The Hyena operator is an example of a subquadratic operator aiming to replace the quadratic attention mechanism.
-- [[Convolution Neural Networks]]**: The concept of convolutions in the Hyena Hierarchy can be linked to the workings of CNNs. 
+- [[Convolutional Neural Networks]]**: The concept of convolutions in the Hyena Hierarchy can be linked to the workings of CNNs. 
+-  [[Artificial Intelligence]]
+- [[Neural Networks]]

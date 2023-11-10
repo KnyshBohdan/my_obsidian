@@ -34,3 +34,7 @@ Objective Function: $L(μG,μD)=Ex∼μref,y∼μD(x)[ln⁡y]+Ex∼μG,y∼μD
 - **[[Deep Learning]]**: GANs are a type of deep learning model.
 - **[[Neural Networks]]**: GANs extend the concept of neural networks to generative tasks.
 - **[[Reinforcement Learning]]**: GANs have applications in reinforcement learning as well.
+-  [[Artificial Intelligence]]
+- [[Neural Networks]]
+- [[Computer Vision]]
+- [[Convolutional Neural Networks]] 

@@ -2,7 +2,7 @@ Lebesgue Integration is a mathematical technique that extends the concept of int
 
 ### Definition
 
-The Lebesgue integral of a non-negative function ff is defined as the "area" under the curve of ff with respect to a measure μ. In the simplest case, it can be thought of as the area between the graph of f and the x-axis. The integral is defined by summing up the areas of horizontal slabs under the graph of f, each of height dydy, and width measured by μ.
+The Lebesgue integral of a non-negative function ff is defined as the "area" under the curve of f with respect to a measure μ. In the simplest case, it can be thought of as the area between the graph of f and the x-axis. The integral is defined by summing up the areas of horizontal slabs under the graph of f, each of height dy, and width measured by μ.
 
 ### Properties and Characteristics
 

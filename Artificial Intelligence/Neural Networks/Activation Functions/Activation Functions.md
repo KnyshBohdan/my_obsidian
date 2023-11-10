@@ -45,4 +45,4 @@ f(x)=Activation Function applied to weighted sum of inputsf(x)=Activation
 
 - **[[Neural Networks]]**: Activation functions are a fundamental component.
 - **[[Backpropagation]]**: The choice of activation function affects how backpropagation is computed.
-- **[[Convolution Neural Networks]]**: ReLU is commonly used here.
+- **[[Convolutional Neural Networks]]**: ReLU is commonly used here.

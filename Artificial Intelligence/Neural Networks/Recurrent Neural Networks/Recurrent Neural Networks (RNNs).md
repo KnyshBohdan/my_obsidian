@@ -34,3 +34,7 @@ ht=f(Whhht−1+Wxhxt)
 - **[[Deep Learning]]**: RNNs are a type of deep learning model specialized for sequence data.
 - **[[Natural Language Processing]]**: RNNs are commonly used in various NLP tasks.
 - **[[Neural Networks]]**: RNNs are an extension of traditional neural networks, adding the ability to handle sequences.
+-  [[Artificial Intelligence]]
+- [[Neural Networks]]
+- [[Computer Vision]]
+- [[Convolutional Neural Networks]] 

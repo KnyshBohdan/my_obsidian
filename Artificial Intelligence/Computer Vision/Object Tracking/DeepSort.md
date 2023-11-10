@@ -34,5 +34,8 @@ DeepSort is applied in various real-world scenarios such as:
 DeepSort is related to several other topics in computer vision and machine learning:
 
 - [[Object Detection]]: DeepSort relies on object detection algorithms like YOLO v3 to detect individuals in video frames.
-- [[Kalman Filters]]: Used within DeepSort for predicting the motion of objects.
+- [[Kalman Filter]]: Used within DeepSort for predicting the motion of objects.
 - [[Feature Extraction]]: DeepSort uses a neural network to extract features for appearance-based tracking.
+- [[Artificial Intelligence]]
+- [[Neural Networks]]
+- [[Computer Vision]]

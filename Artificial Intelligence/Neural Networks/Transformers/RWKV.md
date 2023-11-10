@@ -27,4 +27,6 @@ RWKV is primarily applied in natural language processing tasks where long sequen
 
 - [[Transformers]] RWKV is an evolution of the Transformer architecture, aiming to address its computational limitations
 - [[Deep Learning]]
-- [[Recurrent Neural Networks]]
+- [[Recurrent Neural Networks (RNNs)]]
+-  [[Artificial Intelligence]]
+- [[Neural Networks]]

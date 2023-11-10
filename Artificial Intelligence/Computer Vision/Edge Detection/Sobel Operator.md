@@ -41,7 +41,7 @@ The Sobel operator is used in a variety of applications including:
 
 - [[Canny Edge Detection]]: The Canny edge detector uses the Sobel operator to compute the gradient part of its algorithm.
 - [[Image gradient]]: The Sobel operator is a way of computing the image gradient, which is used in various image processing tasks.
-- [[Convolution Neural Networks]]: In deep learning, CNNs learn filters that can perform operations similar to the Sobel operator to detect features in images.
+- [[Convolutional Neural Networks]]: In deep learning, CNNs learn filters that can perform operations similar to the Sobel operator to detect features in images.
 - [[Edge Detection]]
 - [[Artificial Intelligence]]
 - [[Edge Detection]]

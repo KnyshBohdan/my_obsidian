@@ -29,6 +29,6 @@ Anchor boxes are used in various real-world applications such as:
 
 ## Connection to Other Topics
 
-- [[Convolution Neural Networks]]: Anchor boxes are a component of CNN architectures in object detection.
+- [[Convolutional Neural Networks]]: Anchor boxes are a component of CNN architectures in object detection.
 - [[IoU (Intersection over Union)]]: Used to measure the accuracy of an object detector on a particular dataset and also in training detectors.
 - [[Faster R-CNN]], [[YOLO]], [[SSD]]: Different object detection models that utilize anchor boxes.
